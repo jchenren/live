@@ -1,0 +1,218 @@
+[1112/093832:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093832:INFO:wow_sso_infobar_manager.cc(149)] ShowFastLoginInfobarCallBack, force_include_cookies_login_:1
+
+[1112/093832:INFO:wow_sso_infobar_manager.cc(70)] don't show binding infobar
+
+[1112/093832:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093833:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093835:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093836:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093836:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093836:WARNING:monitor.cc(387)] Request to https://beacons.gvt2.com/domainreliability/upload had (at least) two NEL headers: "{"failure_fraction":1" and ""include_subdomains":false".
+[1112/093837:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093839:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093839:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093841:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093841:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093842:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093844:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093849:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093851:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093853:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093856:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093858:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093901:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093902:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093905:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093905:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093907:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093909:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093909:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093911:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093911:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093912:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093912:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093913:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093914:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093916:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093916:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093917:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093919:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093921:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093921:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093924:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093931:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093932:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093936:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093938:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093939:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093941:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093942:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093945:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093945:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093949:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093949:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093950:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[1112/093951:INFO:wow_stats_helper.cc(322)] bluesky.10.1.1.1.1?cache=575710594492&ka=&kb=a399dc4f31d232f60206077fa801d717&kc=246ec384951a74fd9aa79feb440dcf28v0000002e5bf8d20&firstpid=0501&bid=800&ver=5.7.16400.12&sample_rate=1&module_code=1.19&error_code=1&customized_data={"data":"{\"code\":1,\"data\":{\"category\":4,\"domain\":\"github.com\",\"level\":0.0,\"magic\":false,\"title\":\"unknown\"},\"msg\":\"success\"}","error_message":"","result_code":""}&lang=zh-CN&rtype=sysevent
+[1112/093951:INFO:wow_stats_helper.cc(326)] https://mmstat.ucweb.com/lv=1.0&encrypt_data=bTkwAi1cpdSlrWEVabDPLx19wUostBiQv+j15YtM3iTLUJKk5egG1GLFtKWIpd3g/VswxZ9MBRgcbVWG7OSHpbimI9tEsQRR2RHb/zxKjjFlyfDidfNdwoQLluhPHIV5KvxI2HMeAofnaDmVzerQ5IrpB8+GHlATdR8+OvoXhvGAkNx31OlSUyenoknoCMJxFWmiG7cVB4eD8B4LUv+GZzBAJ3xnVwHPmocEfAoNh7M2Tmo6UqFTfgeokgc3RpCstTG0AZd+VQ5bhKFJ9PqPJ8EfBeywKlXObZxvv4x8wzIa6kDw6KxSvrdwfMVHCJTlWemCjVg/TX2/StHeL5uU+zOZxedWEEIAO2NOq0Y51WC4qCi0cLxqgwttBrrIC9ks94xrrfAjasOcGJSUz6GY4g+Q5yWOMRRNoP/zftY1jPEEJV1BUKxXBubCEApgDddth0gLb2BhX9U13F4cEOOUNNAusyZlB2rDXv3kdpdg0d2qZ899kchVQoiaHTboGpTtcBA7B91jaQzSclfh/d6UOz6v06nwAEXU7W2F9QVr02Pch5fcdNVXjywM6sQXIPinwskSx0cwRVhmLDCnZMNDHw==
+[1112/093951:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/093952:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(441)] request_duration URL: https://github.com/jchenren/myinfo/upload/master
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(442)] request_duration: 1572
+[1112/093952:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[1112/093952:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[1112/093952:INFO:manage_passwords_ui_controller.cc(574)] ManagePasswordsUIController::GetLoginsByUrlhttps://github.com/jchenren/myinfo/upload/master
+[1112/093952:INFO:manage_passwords_ui_controller.cc(585)] GetLoginsByUrl url = https://github.com/jchenren/myinfo/upload/master
+ state = MANAGE_STATE
+[1112/093952:WARNING:navigation_controller_impl.cc(1864)] [ENTRY ADD] TabId:-1 PageId:1 ViewId:32 SiteId:26 Url:chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/background.html
+
+[1112/093952:WARNING:web_contents_impl.cc(1034)] [MAX PAGE ID UPDATE] TabId:-1 SiteId:26 PageId:1
+
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(441)] request_duration URL: https://github.githubassets.com/assets/frameworks-481a47a96965f6706fb41bae0d14b09a.css
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(442)] request_duration: 93
+[1112/093952:ERROR:backend_impl.cc(761)] Unable to create file: -5
+[1112/093952:ERROR:entry_impl.cc(960)] Failed to save user data
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(441)] request_duration URL: https://github.githubassets.com/assets/github-5362384f9e2512870c388a187eaf4868.css
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(442)] request_duration: 101
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(452)] request_duration URL: https://github.githubassets.com/images/search-key-slash.svg
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(453)] request_duration: 116
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(452)] request_duration URL: https://github.githubassets.com/images/icons/ie-notice.png
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(453)] request_duration: 116
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(452)] request_duration URL: https://github.githubassets.com/images/spinners/octocat-spinner-128.gif
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(453)] request_duration: 117
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(452)] request_duration URL: https://avatars1.githubusercontent.com/u/55873151?s=40&v=4
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(453)] request_duration: 117
+[1112/093952:ERROR:backend_impl.cc(761)] Unable to create file: -5
+[1112/093952:ERROR:entry_impl.cc(960)] Failed to save user data
+[1112/093952:ERROR:backend_impl.cc(761)] Unable to create file: -5
+[1112/093952:ERROR:entry_impl.cc(960)] Failed to save user data
+[1112/093952:WARNING:navigation_controller_impl.cc(1864)] [ENTRY ADD] TabId:-1 PageId:1 ViewId:34 SiteId:28 Url:chrome-extension://makkfjljgghpdlhglacpbclabaennjeg/background.html
+
+[1112/093952:WARNING:web_contents_impl.cc(1034)] [MAX PAGE ID UPDATE] TabId:-1 SiteId:28 PageId:1
+
+[1112/093952:INFO:CONSOLE(112)] "Uncaught TypeError: Cannot read property 'parentNode' of undefined", source: chrome-extension://pogijhnlcfmcppgimcaccdkmbedjkmhi/injection/video-toolbar.js (112)
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(452)] request_duration URL: https://github.githubassets.com/images/files-lg.svg
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(453)] request_duration: 84
+[1112/093952:INFO:CONSOLE(4)] "onReaderStart", source: chrome-extension://makkfjljgghpdlhglacpbclabaennjeg/js/background.min.js (4)
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(452)] request_duration URL: https://avatars3.githubusercontent.com/u/55873151?s=96&v=4
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(453)] request_duration: 115
+[1112/093952:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093952:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(769)] t0: 1580
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(770)] t1: 1814
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(771)] t2: 1814
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(772)] t3: 1817
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(773)] first_layout: 1814
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(793)] average_of_request_duration: 589
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(799)] average_of_t2_duration: 604
+[1112/093952:INFO:wow_cloud_acceleration_tab_helper.cc(329)] Page load detail stats string: &host=github.com&url=https%3A%2F%2Fgithub.com%2Fjchenren%2Fmyinfo%2Fupload%2Fmaster&bandwidth=66321.30&target_ip=52.74.223.119&os=8&network_type=CONNECTION_ETHERNET&ip_address=169.254.164.66&transmit_link_speed=1215.75&receive_link_speed=1215.75&cloud_acceleration_enabled=0&access_type=1&fetched_via_net_work=3&fetched_via_cache_304=6&fetched_via_cache_directly=0&fetched_via_syncable_cache=0&operate=refresh&mainframe_fetched_via=download&redirect_start=0&redirect_duration=0&dns_start=8&dns_duration=25&connect_start=33&connect_duration=283&request_start=316&request_duration=1264&response_start=1580&response_duration=218&dom_start=1584&dom_duration=414&dom_interactive=181&dom_content_load_start=1817&dom_content_load_duration=0&load_event_start=1998&load_event_duration=0&t0=1580&t1=1814&t2=1814&t3=1817&first_layout=1814&average_of_request_duration=589&average_of_t2_duration=604
+[1112/093952:INFO:wow_stats_helper.cc(322)] bluesky.1.25.1.1.7?cache=575712456483&ka=&kb=a399dc4f31d232f60206077fa801d717&kc=246ec384951a74fd9aa79feb440dcf28v0000002e5bf8d20&firstpid=0501&bid=800&ver=5.7.16400.12&sample_rate=1&host=github.com&url=https%3A%2F%2Fgithub.com%2Fjchenren%2Fmyinfo%2Fupload%2Fmaster&bandwidth=66321.30&target_ip=52.74.223.119&os=8&network_type=CONNECTION_ETHERNET&ip_address=169.254.164.66&transmit_link_speed=1215.75&receive_link_speed=1215.75&cloud_acceleration_enabled=0&access_type=1&fetched_via_net_work=3&fetched_via_cache_304=6&fetched_via_cache_directly=0&fetched_via_syncable_cache=0&operate=refresh&mainframe_fetched_via=download&redirect_start=0&redirect_duration=0&dns_start=8&dns_duration=25&connect_start=33&connect_duration=283&request_start=316&request_duration=1264&response_start=1580&response_duration=218&dom_start=1584&dom_duration=414&dom_interactive=181&dom_content_load_start=1817&dom_content_load_duration=0&load_event_start=1998&load_event_duration=0&t0=1580&t1=1814&t2=1814&t3=1817&first_layout=1814&average_of_request_duration=589&average_of_t2_duration=604&lang=zh-CN
+[1112/093952:INFO:wow_stats_helper.cc(326)] https://mmstat.ucweb.com/lv=1.0&encrypt_data=bTkwAl5eCdiarw0ROLZjK79/hbZKuNCYCujJ8RxWiiiHWAKUodD0xWXNQIicq8H026/Y3fVYvQBFc5H6h9ZDuSCWA7vMoWSxngNH23VcAhUPpZjKG891qul92jwg9jFVXuQYKD920ndkUg1JQNSs0PTNnwf0+shrFPHadpl1os3wcBw3pMkSk2iFDg2p7i41h1WaQ8F5D8/m1oK/NcUSq2woV6wTjzEfge1QkA9j2+dgGsLCKJWrJq6WlttMlJR1HfZV8O044ql9cU6/zJBcEOzNooPI3S56ERyf3+cTZ5+M2nR9hnREfwMkMT0162CWnrz1VUU3y6vKCqNfV2O9GBCzbDU+3teFnbEeOQou7uA8N/UC6m0JQIDrvk+rg1H/SwMmsZAVJwN33iDPpn0XIJRnpKvGizyKEubjlycKgWDqQ3/Ybma5cwOsJLVD2Ifmsc/Bng891wbaUIu+LVDQo2/JK5AOngf1pFkpe+RQewNvl7kihDcf79hp/BDvsWAc7KZkXJYumkh2CBc3i3i/oZPAtWIh54lcYg2jAUgc1GiFYWwfLX71wRX+IL1u/1tgKB62qRsVIYz46KP98kBe+EAkdcTFv0kkprIi0KYZx9V4AByouVqt1oCWzr/I5ORL7wmegWvl+adJamOWQlnVAtnrEDpz/wh8OETScz3aJNSD6ppEEVlTPktzDAm9+3xgerIfJsDWiMDFANUz3l2HEl6EhwS1laqI7UsSFor5yf0DbSwJYVjRSoX50e9DiReC8USS9V+sZqdHw1XeMklfGMwkCckJmnbvOa7HpOPnYwCPAou86iKOdOS0WoHW0K7aYRcHmLH9iCvJY8N0jCbmojHhiGd2zEaHqkZMTWn4OTEx1RJBVT1XhmoClmQpm1HS6bmEIxKcPhdUNVc/GziYtLKADAGly/tfPxjMENTGxkKBcYD/vmyl8q7wT/KNmBkRQUUq2Z3dN2bakqyCJnMwyDtIuLpaXlUlgblo5XScPNMEPCqSBSqaxmiS6JcNbL1Tn0TrM6aXxIRLc3d62DjF9rrwJVf5OEsRVDnkV67FDaOJyIolgxMnBflUem09PBIzQqY+AFvNb8vIaqNbeVHUOT2IjhkvY7d1gRx+sUeMjoMabiLE5QfqLGbu7d7MY+fQmyX8n9quC84jxGK8sgM+arpWKrOvalq4HrO31zH0JVtmOqSqQR6YVf2NfFtXcruhcRUyYTW91waqwrYEARrDaQXos1ToVdnChHp2NKL8U2y+jy8g2R0RnGpS7CqOQUfv07GoAoTsJmc8Yz1NNkXKw6rQArokGOqvAF1Dqw3k9gt+zoCYdrCR98bijssTcuYUT3ZOs73oVij4gRug/Pcz2gdq1oPtQ1MQjaaLgJS5b3fvJV5sirTLkR35F2SYR4Mq3zLaR0mV9K40joZRW+TF+9u/AwtuVe9XGyoIJkymPHAb
+[1112/093953:INFO:wow_cloud_acceleration_tab_helper.cc(441)] request_duration URL: https://github.githubassets.com/favicon.ico
+[1112/093953:INFO:wow_cloud_acceleration_tab_helper.cc(442)] request_duration: 106
+[1112/093955:INFO:wow_sso_infobar_manager.cc(149)] ShowFastLoginInfobarCallBack, force_include_cookies_login_:1
+
+[1112/093955:INFO:wow_sso_infobar_manager.cc(70)] don't show binding infobar
+
+[1112/093955:INFO:wow_sso_infobar_manager.cc(149)] ShowFastLoginInfobarCallBack, force_include_cookies_login_:1
+
+[1112/093955:INFO:wow_sso_infobar_manager.cc(70)] don't show binding infobar
+
+[1112/093955:INFO:wow_sso_infobar_manager.cc(149)] ShowFastLoginInfobarCallBack, force_include_cookies_login_:1
+
+[1112/093955:INFO:wow_sso_infobar_manager.cc(70)] don't show binding infobar
+
+[1112/093956:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093956:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093956:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093957:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093959:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/093959:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094001:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094001:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094002:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094004:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094011:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094012:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094015:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094018:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094018:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094021:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094021:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094025:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094025:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094028:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094029:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094031:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094032:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094032:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094032:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094036:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094036:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094036:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094037:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094039:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094039:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094040:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094041:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094042:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094044:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094051:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094058:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094101:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094101:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094105:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094105:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094108:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094109:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094111:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094112:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094112:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094112:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094115:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094115:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094115:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094117:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094119:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094119:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094120:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094121:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094122:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094124:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094125:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094128:ERROR:ssl_client_socket_openssl.cc(1158)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1112/094130:INFO:manage_passwords_ui_controller.cc(574)] ManagePasswordsUIController::GetLoginsByUrlhttps://www.dxx.com/?dnrd=daohang
+[1112/094130:INFO:manage_passwords_ui_controller.cc(585)] GetLoginsByUrl url = https://www.dxx.com/?dnrd=daohang
+ state = INACTIVE_STATE
+[1112/094130:INFO:wow_stats_helper.cc(322)] bluesky.1.20.1.1.1?cache=575810273344&ka=&kb=a399dc4f31d232f60206077fa801d717&kc=246ec384951a74fd9aa79feb440dcf28v0000002e5bf8d20&firstpid=0501&bid=800&ver=5.7.16400.12&activetime=128&inactivetime=121&p=10&p1=0&p2=0&p3=0&prefetching=0&hitprefetching=0&mouse_pref=0&mouse_hit=0&max_renderer_process=3&lang=zh-CN&rtype=sysevent
+[1112/094130:INFO:wow_stats_helper.cc(326)] https://mmstat.ucweb.com/lv=1.0&encrypt_data=bTkwAianLryiYOg9YE1Gxy/NM3vaKmZAUotaXbRzOZznpP4EjjRqsw9bHhCj3Ahoqxn6dUWOX6jNcpY+P9dEfWDea5sM6UyRhvSKx32vvxk//xbSy+X70lFAseC426oB/nDc+N+alqdMGSzdqJvNLOTDhZ/k9NLj3LglklG8jWlwwEz3JLmi05Bau+FRBbsZlzd8SzFb6dc+Q8FT3VDRX8xke1zze90vKe5ZZJdkwrtQzrIz4UmZZb3rUAdYBj2/WzP4Tj5AeETkXZBFFi8lmMh7XCI8NVAAcdLjdt81GZ/aihTJ6I1AJG71+Y/Hm1WuW1fXt/mTNCOhWDCmErQkt0UoieM/viMS5bNtylagYtn4ru7eZ943GVXu2K7T3RCBxQMs/7LACOSKF9322PnmeiUiIlH07uL2iYwdRzrKs2tmtKk4Zwrn0hXSWD5PQ5c=
+[1112/094130:INFO:wow_stats_helper.cc(322)] bluesky.1.5.1.1.8?cache=575810273442&ka=&kb=a399dc4f31d232f60206077fa801d717&kc=246ec384951a74fd9aa79feb440dcf28v0000002e5bf8d20&firstpid=0501&bid=800&ver=5.7.16400.12&activetime=128&inactivetime=121&p=10&p1=0&p2=0&p3=0&prefetching=0&hitprefetching=0&mouse_pref=0&mouse_hit=0&max_renderer_process=3&extensionlist=aapbdbdomjkkjkaonfhkkikfgjllcleb&lang=zh-CN
+[1112/094130:INFO:wow_stats_helper.cc(326)] https://mmstat.ucweb.com/lv=1.0&encrypt_data=bTkwAianLryiYOg9YE1Gxy/NNGXFNXlfRIUGX7Z4NMTvpvwJhzVotgtcGRaxkQI0sFTzKhncVaiQdcFsatURK2HfP8sK606XgPOKlnr2txhqrBDU2qjzjF5Gs7O+i6EN83zYqImZxKURQSyLpsTOK7LDgcvj8Ybpkv4lklG8jWsnkBvzeuX00YYatPpQAr8Amm5xTjRa/pM1TphW1VDHD99zNFToYsQwLuxdZIl7wa8XzKUu/lqIeLnjCAtbDCPwXDz6WSNfa1X5WZgdGiwmj542UCMqYxEMfMS1NNA4D8mZhBnfvo9XJ23k7oTGnFz0VkGZtuSXNjSiWyGxGbUjvh8ln6g9pCUE35xv3VX7b8+zrPTYceQAGEin1biY0Qmm6BQn9bPXH/OnON/r1P/wemssNxLg++n/x58aBBXt5m0vrLgtOB38xR/JVztQBMxIoRXHK3cI2dpKNW9akTvVXOgPBUiwKv+7gC2OUvYe
+[1112/094130:INFO:wow_stats_helper.cc(322)] bluesky.1.19.1.1.14?cache=575810273556&ka=&kb=a399dc4f31d232f60206077fa801d717&kc=246ec384951a74fd9aa79feb440dcf28v0000002e5bf8d20&firstpid=0501&bid=800&ver=5.7.16400.12&tcphang=0&udphang=0&lang=zh-CN
+[1112/094130:INFO:wow_stats_helper.cc(326)] https://mmstat.ucweb.com/lv=1.0&encrypt_data=bTkwAianLryiYOg9YE1Gxy/NMHLaKmZAUotRAbZxMpG/rPwGgz1rsQpfHhGizEVi9wK3fBrSDaLNL5FpbYJGKDbfas9c706TgPKNxyyo5hE+qkXUzfS22g9Pt+Lr3foK8n3Q/I/MlfVORHTd/pWSL+OVhZuw89e31vZjklG8jWlylxygIOf+hZJM++5KBLwdjjolRjRe6MB6SMwK2FjRSZx3bBP7YMQ2NulbYJd63bhEiaUk+Fedf7O7BRwcUHXxUzP+EHoPYkD+U8BaQzNU5956
+[1112/094130:INFO:wow_stats_helper.cc(322)] bluesky.1.19.1.1.17?cache=575810273609&ka=&kb=a399dc4f31d232f60206077fa801d717&kc=246ec384951a74fd9aa79feb440dcf28v0000002e5bf8d20&firstpid=0501&bid=800&ver=5.7.16400.12&icu_initialize_retry=0&icu_initializeicu_retry=0&lang=zh-CN
+[1112/094130:INFO:wow_stats_helper.cc(326)] https://mmstat.ucweb.com/lv=1.0&encrypt_data=bTkwAianLryiYOg9YE1Gxy/NMHLaKmZAUotSAbZxMpG/rPwGgz1rsQpfHhKnw0Vi9wK3fBrSDaLNL5FpbYJGKDbfas9c706TgPKNxyyo5hE+qkXUzfS22g9Pt+Lr3foK8n3Q/I/MlfVORHTd/pWSL+OVhZuw89e31vZjklG8jWlylxygIOf+hZJM++5KBLwdjjolRjRe6MB6SMwK2FjRSZx3bBP7YMQ2NulbYJd63bhEibgk/WCVf73yXFsFXX/8bS/8WThQMxG2XZ5VdHd5wJpiAH9laUVYL5eadIh8W8CXiQ+Vr5NVfHL4oK/hNa0=
+[1112/094130:INFO:CONSOLE(0)] "Error in response to tabs.get: TypeError: Cannot read property 'url' of undefined
+    at Object.onTabChange [as callback] (chrome-extension://pbnmnlipmkfkadfcdocgblonoccmolpe/scripts/wow_background.js:98:12)
+    at chrome.tabs.onActivated.addListener (chrome-extension://pbnmnlipmkfkadfcdocgblonoccmolpe/scripts/wow_background.js:92:21)", source: chrome-extension://pbnmnlipmkfkadfcdocgblonoccmolpe/wow_background.html (0)
+[1112/094130:INFO:CONSOLE(0)] "Unchecked runtime.lastError while running tabs.get: No tab with id: 3.
+    at chrome.tabs.onActivated.addListener (chrome-extension://pbnmnlipmkfkadfcdocgblonoccmolpe/scripts/wow_background.js:92:21)", source: chrome-extension://pbnmnlipmkfkadfcdocgblonoccmolpe/wow_background.html (0)
+[1112/094130:INFO:wow_stats_helper.cc(322)] bluesky.4.2.1.1.1?cache=575810396230&ka=&kb=a399dc4f31d232f60206077fa801d717&kc=246ec384951a74fd9aa79feb440dcf28v0000002e5bf8d20&firstpid=0501&bid=800&ver=5.7.16400.12&sample_rate=1&ticks=240&lang=zh-CN
+[1112/094130:INFO:wow_stats_helper.cc(326)] https://mmstat.ucweb.com/lv=1.0&encrypt_data=bTkwAnOnRqlvYMAgE00u+IzNAwu/NUllUoXOZN94/P07phzd2zWJDI9alvU+kbqXQlRDmCfcxSZrdanjR9V5ponff1OS6w4/VfOiI7H2b090rCAS2KjjzolGu2BPi5lcX3w4hG2ZpLkoQeTyscSGMIjDMcHV8Tb/Ef5NtdS8FQ53kJsDKuV0gZsaHDczAhdPDG7BEF5arvl6TlA9rFCPZttz1NDkYuS0X+xV9dZ72dxnzozVSlpTHd7yOLhlElmNCTaqWLAdfn95VTsijWQH44NFtH8=
+[1112/094130:WARNING:navigation_controller_impl.cc(1864)] [ENTRY ADD] TabId:-1 PageId:1 ViewId:36 SiteId:29 Url:chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/background.html
+
+[1112/094130:WARNING:web_contents_impl.cc(1034)] [MAX PAGE ID UPDATE] TabId:-1 SiteId:29 PageId:1
+
+[1112/094130:INFO:CONSOLE(0)] "Error in response to tabs.query: TypeError: Cannot read property 'url' of undefined
+    at j (chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/scripts/background.js:1:2473)
+    at k (chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/scripts/background.js:1:4576)
+    at Object.callback (chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/scripts/background.js:1:8434)
+    at t (chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/scripts/background.js:1:8404)
+    at window.(anonymous function) (chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/scripts/background.js:1:6864)", source: chrome-extension://acbckhilidhkcoenjgmejpgnnmcbhjhi/background.html (0)
+[1112/094130:INFO:wow_sync_manager.cc(22)] There are 6 tunnels to be destroyed.
+[1112/094130:INFO:wow_backing_store.cc(465)] ---- BackingStore::Save() REL:0 DEL:0 ----
+[1112/094131:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown printing.enabled
+[1112/094131:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[1112/094131:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[1112/094131:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown wow.adblock.block_inner_ads
+[1112/094131:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown wow.adblock.block_popup_ads
